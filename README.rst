@@ -69,7 +69,7 @@ Other tools
 https://github.com/twolfson/restructuredtext-lint/wiki/Integration-in-other-tools
 
 pre-commit
-----------
+""""""""""
 
 To use in `pre-commit`_, add to your ``.pre-commit-config.yaml``
 
